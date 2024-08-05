@@ -1,4 +1,4 @@
-## Hi there 👋
+# Salom, meni ismim Anvar 👋
 
 **ibragimovanvar/ibragimovanvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
